@@ -21,7 +21,7 @@ t.right(90)
 
 # Run the program now. You'll need to move your code window to see the turtle window. You should see a black square.
 
-# turtle.done()
+turtle.done()
 
 
 # That was a lot of typing for one square. Let's see how we can use loops to draw our square instead:
